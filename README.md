@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fshh2vusupi5fckn?svg=true)](https://ci.appveyor.com/project/NinePage/4-2-3-2)
